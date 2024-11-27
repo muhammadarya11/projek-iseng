@@ -1,3 +1,5 @@
-const name = 'Muhammad Arya Kusuma'
+const nama = 'Muhammad Arya Kusuma'
+const umur = 21
 
-console.log(name);
+console.log(nama);
+console.log(umur);
